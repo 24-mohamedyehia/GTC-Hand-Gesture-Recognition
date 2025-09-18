@@ -31,6 +31,9 @@ pip install -r requirements.txt
 ```bash
 cp .env.example .env
 ```
+## Dataset
+We used the ASL Alphabet dataset for training and evaluating our hand gesture recognition model.
+You can download the dataset from [Kaggle](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)
 
 ## Authors
 - [Mohamed Yehia](https://github.com/24-mohamedyehia)
