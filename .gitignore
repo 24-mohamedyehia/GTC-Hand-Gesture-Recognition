@@ -10,7 +10,6 @@ LICENSE
 
 # Distribution / packaging
 .Python
-Data/
 build/
 develop-eggs/
 dist/
