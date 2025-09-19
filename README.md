@@ -1,8 +1,52 @@
 # GTC-Hand-Gesture-Recognition
 This project is an AI-based system designed to recognize hand gestures from static images or live video streams. It aims to enable touchless control and enhance applications such as human-computer interaction, gaming, and sign language interpretation.
+  
+## Project Structure
+```
+GTC-Hand-Gesture-Recognition/
+│
+├── data/ 
+│   ├── train/
+│   ├── test/
+│   └── val/
+│
+├── notebooks/               # Jupyter notebooks
+│   ├── Hand_Gesture.ipynb   # Main preprocessing/EDA notebook
+│   └── experiments.ipynb
+│
+├── preprocessing/           # Data cleaning & augmentation scripts
+│   ├── data_cleaning.py
+│   ├── augmentation.py
+│   └── __init__.py
+│
+├── models/                  # Architectures
+│   ├── mobilenet.py
+│   └── __init__.py
+│
+├── scripts/                 # Training / Evaluation / Prediction
+│   ├── train.py
+│   ├── evaluate.py
+│   ├── predict_simple.py
+│   └── predict_realtime.py
+│
+├── outputs/                 # Saved results (checkpoints, plots, logs)
+│   ├── checkpoints/
+│   ├── figures/
+│   └── logs/
+│
+├── utils/                   # Helper functions
+│   ├── metrics.py
+│   └── visualization.py
+│
+├── deployment/              # Apps / serving
+│   └── app.py               # Streamlit or Flask app
+│
+├── labels.json              # Mapping: class ↔ index
+├── requirements.txt         # Python dependencies
+├── README.md                # Main documentation
+└── .gitignore
+```
 
-## 📋 Requirements
-- Python 3.11
 
 ## 🚀 Quickstart
 
