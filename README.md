@@ -43,6 +43,7 @@ GTC-Hand-Gesture-Recognition/
 │
 ├── labels.json              # Mapping: class ↔ index
 ├── requirements.txt         # Python dependencies
+├── .env.example        
 ├── README.md                # Main documentation
 └── .gitignore
 ```
