@@ -11,7 +11,7 @@ GTC-Hand-Gesture-Recognition/
 │   └── val/
 │
 ├── notebooks/               # Jupyter notebooks
-│   ├── Hand_Gesture.ipynb   # Main preprocessing/EDA notebook
+│   ├── Hand_Gesture.ipynb  
 │   └── experiments.ipynb
 │
 ├── preprocessing/           # Data cleaning & augmentation scripts
@@ -39,7 +39,7 @@ GTC-Hand-Gesture-Recognition/
 │   └── visualization.py
 │
 ├── deployment/              # Apps / serving
-│   └── app.py               # Streamlit or Flask app
+│   └── app.py              
 │
 ├── labels.json              # Mapping: class ↔ index
 ├── requirements.txt         # Python dependencies
