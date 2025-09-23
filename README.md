@@ -10,13 +10,10 @@ GTC-Hand-Gesture-Recognition/
 │   ├── test/
 │   └── val/
 │
-├── notebooks/               # Jupyter notebooks
-│   ├── Hand_Gesture.ipynb  
-│   └── experiments.ipynb
 │
 ├── preprocessing/           # Data cleaning & augmentation scripts
-│   ├── data_cleaning.py
-│   ├── augmentation.py
+│   ├── dataloader.py
+│   ├── transforms.py
 │   └── __init__.py
 │
 ├── models/                  # Architectures
@@ -30,13 +27,14 @@ GTC-Hand-Gesture-Recognition/
 │   └── predict_realtime.py
 │
 ├── outputs/                 # Saved results (checkpoints, plots, logs)
-│   ├── checkpoints/
-│   ├── figures/
-│   └── logs/
+│   ├── classification_report.csv
+│   ├── confusion_matrix
+│   └── model_weights.pth
 │
-├── utils/                   # Helper functions
+├── utils/                   # Helper functions       
+│   ├── __init__.py
 │   ├── metrics.py
-│   └── visualization.py
+│   └── train_utils.py
 │
 ├── deployment/              # Apps / serving
 │   └── app.py              
