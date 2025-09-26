@@ -2,7 +2,7 @@
 This project is an AI-based system designed to recognize hand gestures from static images or live video streams. It aims to enable touchless control and enhance applications such as human-computer interaction, gaming, and sign language interpretation.
 
 ## ScreenShots
-![ScreenShot](./public/ScreenShot.png)
+![ScreenShot](./public/Screenshot.png)
 
 ## Features
 - Real-time hand gesture recognition via webcam
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 cp .env.example .env
 ```
 ## Demo Video
-- Watch a sample demo locally: [Hand_Gesture_recognition.mp4](./public/Hand_Gesture_recognition.mp4)
+- Watch a sample demo locally: [Hand_Gesture_recognition.mp4](https://github.com/24-mohamedyehia/GTC-Hand-Gesture-Recognition/raw/refs/heads/main/public/Hand_Gesture_recognition.mp4)
 - Tip: GitHub may not stream MP4 in-browser. If playback fails, download the file or convert to MP4 for embedding.
 
 ## Presentation
