@@ -43,7 +43,6 @@ cp .env.example .env
 - Tip: GitHub may not stream MP4 in-browser. If playback fails, download the file or convert to MP4 for embedding.
 
 ## Presentation
-  - PDF : [Presentation (PDF)](./public/Hand-Gesture-Recognition.pdf)
   - Canva : [Presentation (Canva)](https://www.canva.com/design/DAG0GoYWolQ/xzrvgT9eK9UnoKCGMwtb1g/edit)
 
 ## Dataset
