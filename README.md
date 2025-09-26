@@ -113,6 +113,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## 📝 Acknowledgments
 - [ASL Alphabet Dataset](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)
+- [GTC](https://www.linkedin.com/company/genius-technology-center/posts/?feedView=all)
 
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![MIT](https://img.shields.io/badge/MIT-green)
