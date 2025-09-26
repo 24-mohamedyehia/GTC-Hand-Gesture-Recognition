@@ -44,7 +44,7 @@ cp .env.example .env
 
 ## Presentation
   - Canva : [Presentation (Canva)](https://www.canva.com/design/DAG0GoYWolQ/xzrvgT9eK9UnoKCGMwtb1g/edit)
-  - Powerpoint : [Presentation (Powerpoint)](./public/Hand-Gesture-Recognition.pptx.pptx)
+  - Powerpoint : [Presentation (Powerpoint)](https://github.com/24-mohamedyehia/GTC-Hand-Gesture-Recognition/raw/refs/heads/main/public/Hand-Gesture-Recognition.pptx.pptx)
 
 ## Dataset
 We used the ASL Alphabet dataset for training and evaluating our hand gesture recognition model.
